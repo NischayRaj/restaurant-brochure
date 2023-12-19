@@ -1,70 +1,48 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# GERICTH RESTAURANT BROCHURE
 
-## Available Scripts
+Welcome to the Restaurant Web Design project! This responsive website is designed and built using React, HTML, CSS BEM, JavaScript, React icons, and Git. It offers an optimal user experience on all devices and incorporates modern technologies for a seamless, client-centric design.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Responsive Website:** Crafted with React and CSS BEM, website ensures an optimal user experience across a variety of devices, from desktops to smartphones.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Interactive UI:** Immerse your users in an interactive experience! It is designed to showcase menus, promotions, and contact information in a visually appealing and engaging manner.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Modern Tech Integration:** Embrace the power of modern web technologies. With React at the core and CSS BEM principles are applied for efficient and maintainable styling.
 
-### `npm test`
+- **Client-Centric Design:** We prioritize brand identity and needs. This design philosophy revolves around delivering a high-performing website that not only aligns with the brand but also meets the specific requirements of your restaurant.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To get started with the project, follow these installation instructions:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+git clone [repository_url]
+cd restaurant-web-design
+npm install
+npm start
+```
+## Deployment Link
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+https://nischayraj.github.io/restaurant-brochure/
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Screenshots
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![App Screenshot](https://i.imgur.com/5XVcOQp.png)
+![App Screenshot](https://i.imgur.com/G1f1m68.png)
+![App Screenshot](https://i.imgur.com/3EQJSp4.png)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contact Information:
 
-### Code Splitting
+For any inquiries or further information, please feel free to contact:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Email: nischayraj11@gmail.com
+- Phone no: 8792900589
+- LinkedIn: [Nischay Raj](https://www.linkedin.com/in/nischay-raj-01851024b/)
